@@ -10,8 +10,8 @@ namespace Exercicios15Fevereiro
     {
         static void Main(string[] args)
         {
-            string nome = "";
-            Console.WriteLine("Digite um nome: ");
+            string nome ="";
+            Console.WriteLine("Digite um nome:");
             nome = Console.ReadLine();
             Console.WriteLine(nome);
         }
